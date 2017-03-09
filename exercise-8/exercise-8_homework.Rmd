@@ -2,7 +2,7 @@
 title: "Exercise-8 Homework"
 author: "Cooper Kass"
 date: "March 1, 2017"
-output: github_document
+output: md_document
 ---
 
 ## Example Data--Housing
